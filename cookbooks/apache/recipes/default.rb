@@ -43,7 +43,7 @@ template "/content/sites/#{sitename}/index.html" do
 	variables(
 		:site_title => data["site_title"],
 		:comingsoon => "Coming Soon!"
-		) 
+				) 
 end
 end
 
